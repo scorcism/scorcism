@@ -4,5 +4,4 @@ Myself|- https://scor32k.netlify.app/
 
 
 Learner, with some adrenaline
-![](https://visitor-badge.glitch.me/badge?page_id=scorcism)
  
