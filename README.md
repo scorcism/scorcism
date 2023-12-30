@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Pathak || scor32k || scorcism</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Pathak </h1>
 <h3 align="center">Learning things which will exist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorcism&label=Profile%20views&color=0e75b6&style=flat" alt="scorcism" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://scor32k.vercel.app/](https://scor32k.vercel.app/)
 
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
+- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/scorcism)
 
 - 💬 Ask me about **React JS, Next JS, JS, Java, Cpp, DSA**
 
