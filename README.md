@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scorcism" alt="scorcism" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://scor32k.vercel.app/](https://scor32k.vercel.app/)
+- 🔭 I’m currently working on **Go, SFML**
 
 - 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/scorcism)
 
-- 💬 Ask me about **React JS, Next JS, JS, Java, Cpp, DSA**
-
-- 📫 How to reach me **abhishekpathak1720@gmail.com**
+- 📫 How to reach me **abhishek@scor32k.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
