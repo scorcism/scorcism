@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Go, SFML**
 
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/scorcism)
+- 📝 I occasionally write articles on [https://dev.to/dashboard](https://dev.to/scorcism)
 
 - 📫 How to reach me **abhishek@scor32k.com**
 
