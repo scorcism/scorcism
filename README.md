@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Abhishek Pathak </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scorcism&label=Profile%20views&color=0e75b6&style=flat" alt="scorcism" /> </p>
+
+
 📝 I occasionally write articles on [https://dev.to/dashboard](https://dev.to/scorcism)
 
 📫 How to reach me **abhishek@scor32k.com**
